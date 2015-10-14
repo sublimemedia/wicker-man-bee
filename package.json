@@ -1,5 +1,5 @@
 {
-  "name": "wicker-man-bee",
+  "name": "@sublimemedia/wicker-man-bee",
   "version": "0.1.0",
   "description": "A simple implementation of functional reactive programming in JavaScript",
   "main": "./dist/WMBee.js",
@@ -25,7 +25,6 @@
     "istanbul": "^0.3.20",
     "mocha": "^2.3.2"
   },
-  "private": true,
   "dependencies": {
     "bluebird": "^2.10.0"
   }

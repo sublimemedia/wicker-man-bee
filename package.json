@@ -1,6 +1,6 @@
 {
   "name": "@sublimemedia/wicker-man-bee",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A simple implementation of functional reactive programming in JavaScript",
   "main": "./dist/WMBee.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/sublimemedia/wicker-man-bee.git"
   },
   "author": "Sublime Media",
-  "license": "UNLICENSED",
+  "license": "SEE LICENSE IN license.md",
   "bugs": {
     "url": "https://github.com/sublimemedia/wicker-man-bee/issues"
   },
